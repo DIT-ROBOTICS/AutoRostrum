@@ -1,6 +1,6 @@
 # AutoRostrum
 清大自動主席台，Repo裡面有檔案因過大而無法上傳，共有三個，零件庫/AMR純外殼.ipt、零件庫/AMR純外殼.STEP、清大自動主席台(定稿).stp，請於以下連結下載後再開啟編輯。
-https://drive.google.com/drive/folders/1eGP2t1-r2MKg91Evoqzh2D6XlZqqD4pP?usp=sharing (圖片下方還有說明文字)
+https://drive.google.com/drive/folders/1JQ5hYUYtufdEnDBpbokvYWaE4jvMMwp6?usp=sharing (圖片下方還有說明文字)
 ![untitled 221](https://github.com/DIT-ROBOTICS/AutoRostrum/assets/75752327/997e382b-bd03-4213-9d6d-c44f4911272f)
 
 開啟檔案方式：
